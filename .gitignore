@@ -1,0 +1,8 @@
+*
+
+# Allow these specific folders/files
+!.gitignore
+!Plants
+
+# Ignore common unwanted files
+.code-workspace
