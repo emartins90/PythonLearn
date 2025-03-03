@@ -2,7 +2,7 @@
 
 # Allow these specific folders/files
 !.gitignore
-!Plants
+!Plants/
 
 # Ignore common unwanted files
 .code-workspace
