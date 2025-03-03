@@ -2,7 +2,8 @@
 
 # Allow these specific folders/files
 !.gitignore
-!Plants/
+!Plants/plants_prep.ipynb
+!Plants/plants_analysis.ipynb
 
 # Ignore common unwanted files
 .code-workspace
